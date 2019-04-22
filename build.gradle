@@ -87,7 +87,7 @@ android {
 
     defaultConfig {
         versionCode 540
-        versionName "0.200.0"
+        versionName "0.200.0.newbackup-cs"
 
         applicationId "com.b44t.messenger"
 
